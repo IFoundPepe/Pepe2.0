@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PepeApp</string>
+    <string name="Look_Label">Look</string>
+    <string name="Lean_Label">Lean</string>
+    <string name="Flap_Button">Flap</string>
+    <string name="Tweet_Button">Tweet</string>
+</resources>
