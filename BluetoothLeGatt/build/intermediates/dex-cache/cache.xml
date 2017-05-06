@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_5d478e91d10f549d76d05d70279422c2983e9d5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_7a03ee3f460fc8da776ca6acc2350d3c0bf3be7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_776b5fd6a12d43c7506c21108bc2967650eb9947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d0e3e06a291171ff76b75d0df082624bfc8b8b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_6938c1d41d55e033e34064070db46934a209a0d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_099dae7f04e060312c9f9743ac27f28c21ce6b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_8686e69bb628b7ae4f0d17ad901f5bff5fc05aff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_702e7dfd2c479314d87a1ac8471f3186d42aa78a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_90f7333e89349af7d2e8a96994bdb74a85fc310a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_1be3eacf3533d08ff62a30922fafc3bfdca1747a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_336a5ee284f6b9eca2567689b69267055c0efdc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f644c8a32f948461abb69ec042a3833dd87b2169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_0cabbe08aae0150e807f3a7a1fc2333ca04ae875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_417f7e153fe3c02e0fa25dbd7fa0727c517d26ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_e0fd6105ebc78964ac181e8975dc683a0fb08371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.1_dd94356b2217848da67a494b5ded57f9b5487b28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_b5db0f1a576fd9bcf694a9d5a51cc00fd35c8fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Temsai\Documents\GitHub\Pepe2.0\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6ff9864c1f914ceb8c62da5e25310aa7fad1b08e.jar" />
+    </item>
+
+</items>
