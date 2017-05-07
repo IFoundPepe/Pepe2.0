@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity implements BleManager.BleMan
 
     private static final int PERMISSION_REQUEST_FINE_LOCATION = 1;
 
-    private final static String kPreferences = "MainActivity_prefs";+
+    private final static String kPreferences = "MainActivity_prefs";
     private final static String kPreferences_filtersPanelOpen = "filtersPanelOpen";
 
     // Components
