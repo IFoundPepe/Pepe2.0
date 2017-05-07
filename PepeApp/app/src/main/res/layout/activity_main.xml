@@ -18,12 +18,13 @@
 
     <SeekBar
         android:id="@+id/seekBar2"
-        android:layout_width="342dp"
-        android:layout_height="74dp"
-        android:layout_marginLeft="-218dp"
-        android:layout_marginTop="-37dp"
+        android:layout_width="343dp"
+        android:layout_height="61dp"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="32dp"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        tools:layout_editor_absoluteY="227dp" />
 
     <TextView
         android:id="@+id/textView2"
