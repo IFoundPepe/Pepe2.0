@@ -532,11 +532,12 @@ int drawable notification_bg_low_pressed 0x7f020058
 int drawable notification_bg_normal 0x7f020059
 int drawable notification_bg_normal_pressed 0x7f02005a
 int drawable notification_icon_background 0x7f02005b
-int drawable notification_template_icon_bg 0x7f02005f
-int drawable notification_template_icon_low_bg 0x7f020060
+int drawable notification_template_icon_bg 0x7f020060
+int drawable notification_template_icon_low_bg 0x7f020061
 int drawable notification_tile_bg 0x7f02005c
 int drawable notify_panel_notification_icon_bg 0x7f02005d
-int drawable tile 0x7f02005e
+int drawable pepe 0x7f02005e
+int drawable tile 0x7f02005f
 int id action0 0x7f0a005c
 int id action_bar 0x7f0a0045
 int id action_bar_activity_content 0x7f0a0000

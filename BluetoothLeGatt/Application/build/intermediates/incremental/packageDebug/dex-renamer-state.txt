@@ -1,4 +1,7 @@
-#Sun May 07 14:20:09 PDT 2017
-base.0=C\:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Sun Jun 04 12:31:27 PDT 2017
+base.0=C\:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d1109ae535c30068120ff48f5db833facdf613e4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9142d9154083670b7faaa832d5a65ca764b5594\\classes.dex
+base.1=C\:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9142d9154083670b7faaa832d5a65ca764b5594
+file.0=C\:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d1109ae535c30068120ff48f5db833facdf613e4\\classes.dex

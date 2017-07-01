@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pepe.png",
+        "source": "C:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-mdpi\\pepe.png"
+    },
+    {
         "merged": "C:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
