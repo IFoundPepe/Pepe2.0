@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Temsai\\.android\\build-cache\\e988fd7d7003d3a711b72e8b2f6c5d2e08efc128\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "C:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Temsai\\.android\\build-cache\\e988fd7d7003d3a711b72e8b2f6c5d2e08efc128\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\Temsai\\.android\\build-cache\\e988fd7d7003d3a711b72e8b2f6c5d2e08efc128\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Temsai\\.android\\build-cache\\e988fd7d7003d3a711b72e8b2f6c5d2e08efc128\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\Temsai\\Documents\\GitHub\\Pepe2.0\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",

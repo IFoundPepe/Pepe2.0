@@ -33,4 +33,10 @@
     <string name="menu_disconnect">Disconnect</string>
     <string name="menu_scan">Scan</string>
     <string name="menu_stop">Stop</string>
+
+    <!-- Pepe Strings! -->
+    <string name="Look_Label">Look</string>
+    <string name="Lean_Label">Lean</string>
+    <string name="Flap_Button">Flap</string>
+    <string name="Tweet_Button">Tweet</string>
 </resources>
